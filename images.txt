@@ -7,4 +7,5 @@
 #wurstmeister/kafka
 #mongo:2.2.7
 #registry:2
-docker.io/grafana/grafana:10.3.3
+#docker.io/grafana/grafana:10.3.3
+joxit/docker-registry-ui:static
