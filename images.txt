@@ -9,4 +9,4 @@
 #registry:2
 #docker.io/grafana/grafana:10.3.3
 #joxit/docker-registry-ui:static
-registry
+rancher/rancher-agent:v2.7.10
