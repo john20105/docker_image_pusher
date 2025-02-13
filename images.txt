@@ -1,4 +1,4 @@
-#openebs/m-exporter:ci
+openebs/m-exporter:ci
 #jenkins/jenkins:2.452.3-jdk17
 #quay.io/k8scsi/csi-provisioner:v2.1.0
 #quay.io/k8scsi/csi-node-driver-registrar:v1.2.0
@@ -10,4 +10,4 @@
 #docker.io/grafana/grafana:10.3.3
 #joxit/docker-registry-ui:static
 #rancher/rancher-agent:v2.7.10
-docker.io/library/rancher-agent:v2.9.2
+#docker.io/library/rancher-agent:v2.9.2
