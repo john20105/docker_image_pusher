@@ -12,4 +12,5 @@
 #rancher/rancher-agent:v2.7.10
 #docker.io/library/rancher-agent:v2.9.2
 #docker.io/library/rancher-agent:v2.8.5
-docker.io/rancher/shell:v0.1.5
+#docker.io/rancher/shell:v0.1.5
+rancher/rancher:v2.9.1
